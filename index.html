@@ -23,16 +23,18 @@
     .diagram-card span { font-size: 0.8rem; color: #666; }
 
     /* Viewer page */
-    .viewer-container { width: 100vw; height: 100vh; display: flex; flex-direction: column; }
+    html, body, #root { height: 100%; }
+    .viewer-container { width: 100vw; height: 100vh; display: flex; flex-direction: column; overflow: hidden; }
     .viewer-header {
-      display: flex; align-items: center; gap: 12px; padding: 12px 20px;
-      background: #1a1a1a; border-bottom: 1px solid #2a2a2a; flex-shrink: 0;
+      display: flex; align-items: center; gap: 12px; padding: 8px 20px;
+      background: #1a1a1a; border-bottom: 1px solid #2a2a2a; flex-shrink: 0; z-index: 10;
     }
     .viewer-header a { color: #4a9eed; text-decoration: none; font-size: 0.9rem; }
     .viewer-header h2 { font-size: 1rem; color: #fff; }
-    .viewer-canvas { flex: 1; position: relative; }
-    .viewer-canvas .excalidraw { height: 100% !important; }
-    .loading { display: flex; align-items: center; justify-content: center; height: 100%; color: #888; }
+    .viewer-canvas { flex: 1; position: relative; width: 100%; min-height: 0; }
+    .viewer-canvas .excalidraw { width: 100% !important; height: 100% !important; }
+    .viewer-canvas .excalidraw .excalidraw-container { width: 100% !important; height: 100% !important; }
+    .loading { display: flex; align-items: center; justify-content: center; height: 100vh; color: #888; }
     .error { color: #ef4444; text-align: center; padding: 40px; }
   </style>
 </head>

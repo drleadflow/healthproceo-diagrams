@@ -36,7 +36,7 @@ function DiagramIndex() {
 }
 
 function DiagramViewer({ name }) {
-  const [elements, setElements] = useState(null);
+  const [diagramData, setDiagramData] = useState(null);
   const [error, setError] = useState(null);
 
   useEffect(() => {
@@ -45,12 +45,12 @@ function DiagramViewer({ name }) {
         if (!r.ok) throw new Error("Diagram not found");
         return r.json();
       })
-      .then((data) => setElements(data.elements || []))
+      .then((data) => setDiagramData(data))
       .catch((e) => setError(e.message));
   }, [name]);
 
   if (error) return <div className="error">{error}</div>;
-  if (!elements) return <div className="loading">Loading diagram...</div>;
+  if (!diagramData) return <div className="loading">Loading diagram...</div>;
 
   return (
     <div className="viewer-container">
@@ -60,10 +60,15 @@ function DiagramViewer({ name }) {
       </div>
       <div className="viewer-canvas">
         <Excalidraw
-          initialData={{ elements, scrollToContent: true }}
-          viewModeEnabled={true}
-          zenModeEnabled={true}
-          gridModeEnabled={false}
+          initialData={{
+            elements: diagramData.elements || [],
+            appState: {
+              ...(diagramData.appState || {}),
+              viewBackgroundColor:
+                diagramData.appState?.viewBackgroundColor || "#ffffff",
+            },
+            scrollToContent: true,
+          }}
           theme="dark"
         />
       </div>
