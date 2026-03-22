@@ -1,0 +1,661 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "claude-code",
+  "elements": [
+    {
+      "type": "rectangle", "id": "mission-bg", "x": 200, "y": 30, "width": 2800, "height": 220,
+      "fillStyle": "solid", "strokeWidth": 4, "strokeStyle": "solid", "roughness": 0, "opacity": 100,
+      "strokeColor": "#1e1e1e", "backgroundColor": "#1e1e1e", "roundness": { "type": 3 },
+      "isDeleted": false, "angle": 0, "seed": 1, "groupIds": [], "frameId": null,
+      "boundElements": null, "updated": 1, "link": null, "locked": false, "versionNonce": 0
+    },
+    {
+      "type": "text", "id": "mission-title", "x": 750, "y": 50, "width": 1700, "height": 50,
+      "text": "THE PREDICTABLE PATIENT PIPELINE — $50K/MONTH WEBINAR BLUEPRINT",
+      "fontSize": 36, "fontFamily": 1, "textAlign": "center", "verticalAlign": "top",
+      "containerId": null, "originalText": "THE PREDICTABLE PATIENT PIPELINE — $50K/MONTH WEBINAR BLUEPRINT",
+      "autoResize": true, "lineHeight": 1.25,
+      "fillStyle": "solid", "strokeWidth": 2, "strokeStyle": "solid", "roughness": 0, "opacity": 100,
+      "strokeColor": "#f59e0b", "backgroundColor": "transparent",
+      "isDeleted": false, "angle": 0, "seed": 2, "groupIds": [], "frameId": null,
+      "boundElements": null, "updated": 1, "link": null, "locked": false, "versionNonce": 0
+    },
+    {
+      "type": "text", "id": "mission-sub", "x": 550, "y": 115, "width": 2100, "height": 120,
+      "text": "OFFER: $997 Predictable Patient Pipeline Program  |  UPSELL: $5K/month Agency (4-month min = $20K LTV)\nSCHEDULE: Every Thursday 7 PM ET (auto-rolling)  |  HOST: Dr. Emeka — HealthProCEO\nTARGET: 7 sales/webinar + 1-2 agency upsells = $12,000+/week  |  AD BUDGET: $7,000/month",
+      "fontSize": 20, "fontFamily": 1, "textAlign": "center", "verticalAlign": "top",
+      "containerId": null, "originalText": "OFFER: $997 Predictable Patient Pipeline Program  |  UPSELL: $5K/month Agency (4-month min = $20K LTV)\nSCHEDULE: Every Thursday 7 PM ET (auto-rolling)  |  HOST: Dr. Emeka — HealthProCEO\nTARGET: 7 sales/webinar + 1-2 agency upsells = $12,000+/week  |  AD BUDGET: $7,000/month",
+      "autoResize": true, "lineHeight": 1.25,
+      "fillStyle": "solid", "strokeWidth": 2, "strokeStyle": "solid", "roughness": 0, "opacity": 100,
+      "strokeColor": "#ffffff", "backgroundColor": "transparent",
+      "isDeleted": false, "angle": 0, "seed": 3, "groupIds": [], "frameId": null,
+      "boundElements": null, "updated": 1, "link": null, "locked": false, "versionNonce": 0
+    },
+
+    {
+      "type": "rectangle", "id": "rev-bg", "x": 50, "y": 300, "width": 700, "height": 520,
+      "fillStyle": "solid", "strokeWidth": 2, "strokeStyle": "solid", "roughness": 0, "opacity": 100,
+      "strokeColor": "#22c55e", "backgroundColor": "#b2f2bb", "roundness": { "type": 3 },
+      "isDeleted": false, "angle": 0, "seed": 10, "groupIds": [], "frameId": null,
+      "boundElements": null, "updated": 1, "link": null, "locked": false, "versionNonce": 0
+    },
+    {
+      "type": "text", "id": "rev-title", "x": 70, "y": 310, "width": 660, "height": 35,
+      "text": "REVENUE MATH",
+      "fontSize": 28, "fontFamily": 1, "textAlign": "center", "verticalAlign": "top",
+      "containerId": null, "originalText": "REVENUE MATH",
+      "autoResize": true, "lineHeight": 1.25,
+      "fillStyle": "solid", "strokeWidth": 2, "strokeStyle": "solid", "roughness": 0, "opacity": 100,
+      "strokeColor": "#1e1e1e", "backgroundColor": "transparent",
+      "isDeleted": false, "angle": 0, "seed": 11, "groupIds": [], "frameId": null,
+      "boundElements": null, "updated": 1, "link": null, "locked": false, "versionNonce": 0
+    },
+    {
+      "type": "text", "id": "rev-content", "x": 70, "y": 355, "width": 660, "height": 450,
+      "text": "PER WEBINAR:\n175 registrants × $10 CPR = $1,750 ad spend\n→ 40% show rate = 70 attendees\n→ 10% conversion = 7 sales\n→ 7 × $997 = $6,979 revenue\n→ + 1-2 agency upsells × $5K/mo\n\nMONTHLY PROJECTION:\nMonth 1: $35-41K (building)\nMonth 2: $50K+ (agency recurring)\nMonth 3: $70-90K (compounding)\nMonth 6: $160-220K (live + evergreen)\n\nROAS: 7.1x ($7K in → $50K+ out)\n\nAGENCY COMPOUND EFFECT:\n4 new clients/mo × $5K = $20K new\n+ recurring from prior months\nMonth 3: 12 clients × $5K = $60K/mo",
+      "fontSize": 16, "fontFamily": 1, "textAlign": "left", "verticalAlign": "top",
+      "containerId": null, "originalText": "PER WEBINAR:\n175 registrants × $10 CPR = $1,750 ad spend\n→ 40% show rate = 70 attendees\n→ 10% conversion = 7 sales\n→ 7 × $997 = $6,979 revenue\n→ + 1-2 agency upsells × $5K/mo\n\nMONTHLY PROJECTION:\nMonth 1: $35-41K (building)\nMonth 2: $50K+ (agency recurring)\nMonth 3: $70-90K (compounding)\nMonth 6: $160-220K (live + evergreen)\n\nROAS: 7.1x ($7K in → $50K+ out)\n\nAGENCY COMPOUND EFFECT:\n4 new clients/mo × $5K = $20K new\n+ recurring from prior months\nMonth 3: 12 clients × $5K = $60K/mo",
+      "autoResize": true, "lineHeight": 1.25,
+      "fillStyle": "solid", "strokeWidth": 2, "strokeStyle": "solid", "roughness": 0, "opacity": 100,
+      "strokeColor": "#1e1e1e", "backgroundColor": "transparent",
+      "isDeleted": false, "angle": 0, "seed": 12, "groupIds": [], "frameId": null,
+      "boundElements": null, "updated": 1, "link": null, "locked": false, "versionNonce": 0
+    },
+
+    {
+      "type": "rectangle", "id": "traffic-bg", "x": 50, "y": 870, "width": 700, "height": 480,
+      "fillStyle": "solid", "strokeWidth": 2, "strokeStyle": "solid", "roughness": 0, "opacity": 100,
+      "strokeColor": "#4a9eed", "backgroundColor": "#a5d8ff", "roundness": { "type": 3 },
+      "isDeleted": false, "angle": 0, "seed": 20, "groupIds": [], "frameId": null,
+      "boundElements": [{"id": "arrow-traffic-lp", "type": "arrow"}], "updated": 1, "link": null, "locked": false, "versionNonce": 0
+    },
+    {
+      "type": "text", "id": "traffic-title", "x": 70, "y": 880, "width": 660, "height": 35,
+      "text": "TRAFFIC SOURCES",
+      "fontSize": 28, "fontFamily": 1, "textAlign": "center", "verticalAlign": "top",
+      "containerId": null, "originalText": "TRAFFIC SOURCES",
+      "autoResize": true, "lineHeight": 1.25,
+      "fillStyle": "solid", "strokeWidth": 2, "strokeStyle": "solid", "roughness": 0, "opacity": 100,
+      "strokeColor": "#1e1e1e", "backgroundColor": "transparent",
+      "isDeleted": false, "angle": 0, "seed": 21, "groupIds": [], "frameId": null,
+      "boundElements": null, "updated": 1, "link": null, "locked": false, "versionNonce": 0
+    },
+    {
+      "type": "text", "id": "traffic-content", "x": 70, "y": 925, "width": 660, "height": 410,
+      "text": "PAID (Primary — $100/day):\n• Facebook/Instagram Ads\n• 2 ad sets × 5 creatives (dynamic)\n• Broad targeting + Interest-based\n• Retargeting: site visitors + engaged\n• Lookalikes: leads + buyers\n• Target: $10 CPR\n\nORGANIC:\n• Instagram reels/stories (3-5/week)\n• Skool community posts (weekly)\n• YouTube Shorts (webinar teasers)\n• Email blast (Tuesdays)\n• SMS blast (Tue + Thu AM)\n\nTARGETING:\n• Clinic/practice owners, dentists,\n  chiropractors, med spa owners\n• US, age 28-55\n• Top markets: FL, TX, CA, NY",
+      "fontSize": 16, "fontFamily": 1, "textAlign": "left", "verticalAlign": "top",
+      "containerId": null, "originalText": "PAID (Primary — $100/day):\n• Facebook/Instagram Ads\n• 2 ad sets × 5 creatives (dynamic)\n• Broad targeting + Interest-based\n• Retargeting: site visitors + engaged\n• Lookalikes: leads + buyers\n• Target: $10 CPR\n\nORGANIC:\n• Instagram reels/stories (3-5/week)\n• Skool community posts (weekly)\n• YouTube Shorts (webinar teasers)\n• Email blast (Tuesdays)\n• SMS blast (Tue + Thu AM)\n\nTARGETING:\n• Clinic/practice owners, dentists,\n  chiropractors, med spa owners\n• US, age 28-55\n• Top markets: FL, TX, CA, NY",
+      "autoResize": true, "lineHeight": 1.25,
+      "fillStyle": "solid", "strokeWidth": 2, "strokeStyle": "solid", "roughness": 0, "opacity": 100,
+      "strokeColor": "#1e1e1e", "backgroundColor": "transparent",
+      "isDeleted": false, "angle": 0, "seed": 22, "groupIds": [], "frameId": null,
+      "boundElements": null, "updated": 1, "link": null, "locked": false, "versionNonce": 0
+    },
+
+    {
+      "type": "rectangle", "id": "lp-bg", "x": 850, "y": 300, "width": 750, "height": 360,
+      "fillStyle": "solid", "strokeWidth": 2, "strokeStyle": "solid", "roughness": 0, "opacity": 100,
+      "strokeColor": "#8b5cf6", "backgroundColor": "#d0bfff", "roundness": { "type": 3 },
+      "isDeleted": false, "angle": 0, "seed": 30, "groupIds": [], "frameId": null,
+      "boundElements": [{"id": "arrow-traffic-lp", "type": "arrow"}, {"id": "arrow-lp-nurture", "type": "arrow"}], "updated": 1, "link": null, "locked": false, "versionNonce": 0
+    },
+    {
+      "type": "text", "id": "lp-title", "x": 870, "y": 310, "width": 710, "height": 35,
+      "text": "LANDING PAGES (Split Test)",
+      "fontSize": 28, "fontFamily": 1, "textAlign": "center", "verticalAlign": "top",
+      "containerId": null, "originalText": "LANDING PAGES (Split Test)",
+      "autoResize": true, "lineHeight": 1.25,
+      "fillStyle": "solid", "strokeWidth": 2, "strokeStyle": "solid", "roughness": 0, "opacity": 100,
+      "strokeColor": "#1e1e1e", "backgroundColor": "transparent",
+      "isDeleted": false, "angle": 0, "seed": 31, "groupIds": [], "frameId": null,
+      "boundElements": null, "updated": 1, "link": null, "locked": false, "versionNonce": 0
+    },
+    {
+      "type": "text", "id": "lp-content", "x": 870, "y": 355, "width": 710, "height": 290,
+      "text": "healthproceo.com/webinar\nAll pages use auto-rolling Thursday dates\n\n V1: /webinar — Light theme (Control)\n V2: /webinar/v2 — Dark navy, form above fold\n V3: /webinar/v3 — Gold + black premium\n V4: /webinar/v4 — Cream + sky (brand colors)\n\nCONVERSION ELEMENTS:\n• Countdown timer to next Thursday\n• Seat counter (session-persisted)\n• PostHog + Meta + Hyros tracking\n• Practice type in registration form\n• 5 calendar options post-registration\n\nTarget: 35%+ registration rate",
+      "fontSize": 16, "fontFamily": 1, "textAlign": "left", "verticalAlign": "top",
+      "containerId": null, "originalText": "healthproceo.com/webinar\nAll pages use auto-rolling Thursday dates\n\n V1: /webinar — Light theme (Control)\n V2: /webinar/v2 — Dark navy, form above fold\n V3: /webinar/v3 — Gold + black premium\n V4: /webinar/v4 — Cream + sky (brand colors)\n\nCONVERSION ELEMENTS:\n• Countdown timer to next Thursday\n• Seat counter (session-persisted)\n• PostHog + Meta + Hyros tracking\n• Practice type in registration form\n• 5 calendar options post-registration\n\nTarget: 35%+ registration rate",
+      "autoResize": true, "lineHeight": 1.25,
+      "fillStyle": "solid", "strokeWidth": 2, "strokeStyle": "solid", "roughness": 0, "opacity": 100,
+      "strokeColor": "#1e1e1e", "backgroundColor": "transparent",
+      "isDeleted": false, "angle": 0, "seed": 32, "groupIds": [], "frameId": null,
+      "boundElements": null, "updated": 1, "link": null, "locked": false, "versionNonce": 0
+    },
+
+    {
+      "type": "arrow", "id": "arrow-traffic-lp", "x": 750, "y": 1050, "width": 100, "height": 570,
+      "points": [[0, 0], [100, -570]],
+      "startArrowhead": null, "endArrowhead": "arrow",
+      "startBinding": { "elementId": "traffic-bg", "focus": 0, "gap": 1, "fixedPoint": [1, 0.5] },
+      "endBinding": { "elementId": "lp-bg", "focus": 0, "gap": 1, "fixedPoint": [0, 0.5] },
+      "fillStyle": "solid", "strokeWidth": 3, "strokeStyle": "solid", "roughness": 0, "opacity": 100,
+      "strokeColor": "#4a9eed", "backgroundColor": "transparent",
+      "isDeleted": false, "angle": 0, "seed": 100, "groupIds": [], "frameId": null,
+      "boundElements": null, "updated": 1, "link": null, "locked": false, "versionNonce": 0
+    },
+
+    {
+      "type": "rectangle", "id": "nurture-bg", "x": 850, "y": 720, "width": 750, "height": 560,
+      "fillStyle": "solid", "strokeWidth": 2, "strokeStyle": "solid", "roughness": 0, "opacity": 100,
+      "strokeColor": "#f59e0b", "backgroundColor": "#ffd8a8", "roundness": { "type": 3 },
+      "isDeleted": false, "angle": 0, "seed": 40, "groupIds": [], "frameId": null,
+      "boundElements": [{"id": "arrow-lp-nurture", "type": "arrow"}, {"id": "arrow-nurture-webinar", "type": "arrow"}], "updated": 1, "link": null, "locked": false, "versionNonce": 0
+    },
+    {
+      "type": "text", "id": "nurture-title", "x": 870, "y": 730, "width": 710, "height": 35,
+      "text": "PRE-WEBINAR NURTURE (Target: 45%+ show rate)",
+      "fontSize": 24, "fontFamily": 1, "textAlign": "center", "verticalAlign": "top",
+      "containerId": null, "originalText": "PRE-WEBINAR NURTURE (Target: 45%+ show rate)",
+      "autoResize": true, "lineHeight": 1.25,
+      "fillStyle": "solid", "strokeWidth": 2, "strokeStyle": "solid", "roughness": 0, "opacity": 100,
+      "strokeColor": "#1e1e1e", "backgroundColor": "transparent",
+      "isDeleted": false, "angle": 0, "seed": 41, "groupIds": [], "frameId": null,
+      "boundElements": null, "updated": 1, "link": null, "locked": false, "versionNonce": 0
+    },
+    {
+      "type": "text", "id": "nurture-content", "x": 870, "y": 775, "width": 710, "height": 490,
+      "text": "IMMEDIATELY (Registration):\n  SMS: Confirmation + date + calendar link\n  Email: What to expect + case study teaser\n  Calendar: Google, Apple, Outlook, Office365, Yahoo\n\nWEDNESDAY (Day Before):\n  10 AM — SMS: \"Quick reminder — tomorrow at 7 PM\"\n  10 AM — Email: Social proof + full details + join link\n\nTHURSDAY (Day Of — Triple Touch):\n  9:00 AM — SMS: \"Today's the day!\"\n  6:00 PM — SMS: \"60 minutes! Join link inside\"\n  6:30 PM — Email: Join link + checklist + last details\n  7:00 PM — SMS: \"We're LIVE! Join now: [link]\"\n  7:05 PM — SMS (no-shows only): \"You're missing it\"\n  7:15 PM — Email (no-shows only): \"Still time to join\"\n\nGHL WORKFLOW: \"Webinar Pre-Show Nurture\"\nTRIGGER: Tag 'webinar-registered'\nEXIT: Webinar starts or tag 'webinar-attended'",
+      "fontSize": 16, "fontFamily": 1, "textAlign": "left", "verticalAlign": "top",
+      "containerId": null, "originalText": "IMMEDIATELY (Registration):\n  SMS: Confirmation + date + calendar link\n  Email: What to expect + case study teaser\n  Calendar: Google, Apple, Outlook, Office365, Yahoo\n\nWEDNESDAY (Day Before):\n  10 AM — SMS: \"Quick reminder — tomorrow at 7 PM\"\n  10 AM — Email: Social proof + full details + join link\n\nTHURSDAY (Day Of — Triple Touch):\n  9:00 AM — SMS: \"Today's the day!\"\n  6:00 PM — SMS: \"60 minutes! Join link inside\"\n  6:30 PM — Email: Join link + checklist + last details\n  7:00 PM — SMS: \"We're LIVE! Join now: [link]\"\n  7:05 PM — SMS (no-shows only): \"You're missing it\"\n  7:15 PM — Email (no-shows only): \"Still time to join\"\n\nGHL WORKFLOW: \"Webinar Pre-Show Nurture\"\nTRIGGER: Tag 'webinar-registered'\nEXIT: Webinar starts or tag 'webinar-attended'",
+      "autoResize": true, "lineHeight": 1.25,
+      "fillStyle": "solid", "strokeWidth": 2, "strokeStyle": "solid", "roughness": 0, "opacity": 100,
+      "strokeColor": "#1e1e1e", "backgroundColor": "transparent",
+      "isDeleted": false, "angle": 0, "seed": 42, "groupIds": [], "frameId": null,
+      "boundElements": null, "updated": 1, "link": null, "locked": false, "versionNonce": 0
+    },
+
+    {
+      "type": "arrow", "id": "arrow-lp-nurture", "x": 1225, "y": 660, "width": 0, "height": 60,
+      "points": [[0, 0], [0, 60]],
+      "startArrowhead": null, "endArrowhead": "arrow",
+      "startBinding": { "elementId": "lp-bg", "focus": 0, "gap": 1, "fixedPoint": [0.5, 1] },
+      "endBinding": { "elementId": "nurture-bg", "focus": 0, "gap": 1, "fixedPoint": [0.5, 0] },
+      "fillStyle": "solid", "strokeWidth": 3, "strokeStyle": "solid", "roughness": 0, "opacity": 100,
+      "strokeColor": "#8b5cf6", "backgroundColor": "transparent",
+      "isDeleted": false, "angle": 0, "seed": 101, "groupIds": [], "frameId": null,
+      "boundElements": null, "updated": 1, "link": null, "locked": false, "versionNonce": 0
+    },
+
+    {
+      "type": "rectangle", "id": "offer-bg", "x": 1700, "y": 300, "width": 800, "height": 980,
+      "fillStyle": "solid", "strokeWidth": 3, "strokeStyle": "solid", "roughness": 0, "opacity": 100,
+      "strokeColor": "#f59e0b", "backgroundColor": "#fff3bf", "roundness": { "type": 3 },
+      "isDeleted": false, "angle": 0, "seed": 50, "groupIds": [], "frameId": null,
+      "boundElements": null, "updated": 1, "link": null, "locked": false, "versionNonce": 0
+    },
+    {
+      "type": "text", "id": "offer-title", "x": 1720, "y": 310, "width": 760, "height": 35,
+      "text": "THE $997 OFFER STACK",
+      "fontSize": 28, "fontFamily": 1, "textAlign": "center", "verticalAlign": "top",
+      "containerId": null, "originalText": "THE $997 OFFER STACK",
+      "autoResize": true, "lineHeight": 1.25,
+      "fillStyle": "solid", "strokeWidth": 2, "strokeStyle": "solid", "roughness": 0, "opacity": 100,
+      "strokeColor": "#1e1e1e", "backgroundColor": "transparent",
+      "isDeleted": false, "angle": 0, "seed": 51, "groupIds": [], "frameId": null,
+      "boundElements": null, "updated": 1, "link": null, "locked": false, "versionNonce": 0
+    },
+    {
+      "type": "text", "id": "offer-content", "x": 1720, "y": 355, "width": 760, "height": 910,
+      "text": "\"Predictable Patient Pipeline\" Program\nTotal Value: $18,154 → YOUR PRICE: $997\n(or 3 × $397)\n\nCORE DELIVERABLES:\n  Custom Campaign Audit ............. $1,500\n  12-Module FB Ads Masterclass ...... $997\n  AI Patient Acquisition Blueprint .. $1,500\n  10 Custom Ads (YOUR website, 48hr). $1,500\n  Skool Community — 1 year .......... $2,364\n  Weekly Webinar Access — 1 year .... $2,500\n  Personalized Scaling Roadmap ...... $500\n\nBONUS RESOURCES:\n  Ad Creative Swipe File (50+ ads) .. $497\n  Operations Autopilot Templates .... $997\n  SPY + 253 Method Playbooks ........ $297\n  4 AI Playbooks .................... $1,200\n\nLIVE ATTENDEE BONUS (Sun midnight):\n  1-on-1 Pipeline Audit Call ........ $500\n  Private Slack — 30 days ........... $2,000\n  Done-for-you first campaign ....... $1,500\n\nGUARANTEE:\n  30-day money-back guarantee\n\nCHECKOUT: Whop or Stripe\nROI PITCH: \"2 extra patients = paid for itself\"",
+      "fontSize": 16, "fontFamily": 1, "textAlign": "left", "verticalAlign": "top",
+      "containerId": null, "originalText": "\"Predictable Patient Pipeline\" Program\nTotal Value: $18,154 → YOUR PRICE: $997\n(or 3 × $397)\n\nCORE DELIVERABLES:\n  Custom Campaign Audit ............. $1,500\n  12-Module FB Ads Masterclass ...... $997\n  AI Patient Acquisition Blueprint .. $1,500\n  10 Custom Ads (YOUR website, 48hr). $1,500\n  Skool Community — 1 year .......... $2,364\n  Weekly Webinar Access — 1 year .... $2,500\n  Personalized Scaling Roadmap ...... $500\n\nBONUS RESOURCES:\n  Ad Creative Swipe File (50+ ads) .. $497\n  Operations Autopilot Templates .... $997\n  SPY + 253 Method Playbooks ........ $297\n  4 AI Playbooks .................... $1,200\n\nLIVE ATTENDEE BONUS (Sun midnight):\n  1-on-1 Pipeline Audit Call ........ $500\n  Private Slack — 30 days ........... $2,000\n  Done-for-you first campaign ....... $1,500\n\nGUARANTEE:\n  30-day money-back guarantee\n\nCHECKOUT: Whop or Stripe\nROI PITCH: \"2 extra patients = paid for itself\"",
+      "autoResize": true, "lineHeight": 1.25,
+      "fillStyle": "solid", "strokeWidth": 2, "strokeStyle": "solid", "roughness": 0, "opacity": 100,
+      "strokeColor": "#1e1e1e", "backgroundColor": "transparent",
+      "isDeleted": false, "angle": 0, "seed": 52, "groupIds": [], "frameId": null,
+      "boundElements": null, "updated": 1, "link": null, "locked": false, "versionNonce": 0
+    },
+
+    {
+      "type": "rectangle", "id": "webinar-bg", "x": 200, "y": 1400, "width": 2300, "height": 600,
+      "fillStyle": "solid", "strokeWidth": 3, "strokeStyle": "solid", "roughness": 0, "opacity": 100,
+      "strokeColor": "#ef4444", "backgroundColor": "#ffc9c9", "roundness": { "type": 3 },
+      "isDeleted": false, "angle": 0, "seed": 60, "groupIds": [], "frameId": null,
+      "boundElements": [{"id": "arrow-nurture-webinar", "type": "arrow"}], "updated": 1, "link": null, "locked": false, "versionNonce": 0
+    },
+    {
+      "type": "text", "id": "webinar-title", "x": 220, "y": 1410, "width": 2260, "height": 35,
+      "text": "THE WEBINAR — 90 MINUTES — Every Thursday 7 PM ET",
+      "fontSize": 28, "fontFamily": 1, "textAlign": "center", "verticalAlign": "top",
+      "containerId": null, "originalText": "THE WEBINAR — 90 MINUTES — Every Thursday 7 PM ET",
+      "autoResize": true, "lineHeight": 1.25,
+      "fillStyle": "solid", "strokeWidth": 2, "strokeStyle": "solid", "roughness": 0, "opacity": 100,
+      "strokeColor": "#1e1e1e", "backgroundColor": "transparent",
+      "isDeleted": false, "angle": 0, "seed": 61, "groupIds": [], "frameId": null,
+      "boundElements": null, "updated": 1, "link": null, "locked": false, "versionNonce": 0
+    },
+    {
+      "type": "rectangle", "id": "w1", "x": 230, "y": 1460, "width": 200, "height": 240,
+      "fillStyle": "solid", "strokeWidth": 2, "strokeStyle": "solid", "roughness": 0, "opacity": 100,
+      "strokeColor": "#1e1e1e", "backgroundColor": "#ffffff", "roundness": { "type": 3 },
+      "isDeleted": false, "angle": 0, "seed": 62, "groupIds": [], "frameId": null,
+      "boundElements": null, "updated": 1, "link": null, "locked": false, "versionNonce": 0
+    },
+    {
+      "type": "text", "id": "w1-text", "x": 240, "y": 1470, "width": 180, "height": 220,
+      "text": "PRE-SHOW\n5 min\n\n• Welcome\n• \"Drop your\n  practice type\n  in chat\"\n• Build energy\n• \"Stay for the\n  Blueprint\"",
+      "fontSize": 14, "fontFamily": 1, "textAlign": "center", "verticalAlign": "top",
+      "containerId": null, "originalText": "PRE-SHOW\n5 min\n\n• Welcome\n• \"Drop your\n  practice type\n  in chat\"\n• Build energy\n• \"Stay for the\n  Blueprint\"",
+      "autoResize": true, "lineHeight": 1.25,
+      "fillStyle": "solid", "strokeWidth": 2, "strokeStyle": "solid", "roughness": 0, "opacity": 100,
+      "strokeColor": "#1e1e1e", "backgroundColor": "transparent",
+      "isDeleted": false, "angle": 0, "seed": 63, "groupIds": [], "frameId": null,
+      "boundElements": null, "updated": 1, "link": null, "locked": false, "versionNonce": 0
+    },
+    {
+      "type": "rectangle", "id": "w2", "x": 460, "y": 1460, "width": 350, "height": 240,
+      "fillStyle": "solid", "strokeWidth": 2, "strokeStyle": "solid", "roughness": 0, "opacity": 100,
+      "strokeColor": "#1e1e1e", "backgroundColor": "#ffffff", "roundness": { "type": 3 },
+      "isDeleted": false, "angle": 0, "seed": 64, "groupIds": [], "frameId": null,
+      "boundElements": null, "updated": 1, "link": null, "locked": false, "versionNonce": 0
+    },
+    {
+      "type": "text", "id": "w2-text", "x": 470, "y": 1470, "width": 330, "height": 220,
+      "text": "PART 1: THE HOOK — 10 min\n\nWhy 90% of clinic marketing fails:\n1. Wrong targeting\n2. Slow follow-up (mins not days)\n3. No system (random tactics)\n\n\"You're losing $10K-50K/month in\npatients you already generate but\ndon't convert\"",
+      "fontSize": 14, "fontFamily": 1, "textAlign": "left", "verticalAlign": "top",
+      "containerId": null, "originalText": "PART 1: THE HOOK — 10 min\n\nWhy 90% of clinic marketing fails:\n1. Wrong targeting\n2. Slow follow-up (mins not days)\n3. No system (random tactics)\n\n\"You're losing $10K-50K/month in\npatients you already generate but\ndon't convert\"",
+      "autoResize": true, "lineHeight": 1.25,
+      "fillStyle": "solid", "strokeWidth": 2, "strokeStyle": "solid", "roughness": 0, "opacity": 100,
+      "strokeColor": "#1e1e1e", "backgroundColor": "transparent",
+      "isDeleted": false, "angle": 0, "seed": 65, "groupIds": [], "frameId": null,
+      "boundElements": null, "updated": 1, "link": null, "locked": false, "versionNonce": 0
+    },
+    {
+      "type": "rectangle", "id": "w3", "x": 840, "y": 1460, "width": 350, "height": 240,
+      "fillStyle": "solid", "strokeWidth": 2, "strokeStyle": "solid", "roughness": 0, "opacity": 100,
+      "strokeColor": "#1e1e1e", "backgroundColor": "#ffffff", "roundness": { "type": 3 },
+      "isDeleted": false, "angle": 0, "seed": 66, "groupIds": [], "frameId": null,
+      "boundElements": null, "updated": 1, "link": null, "locked": false, "versionNonce": 0
+    },
+    {
+      "type": "text", "id": "w3-text", "x": 850, "y": 1470, "width": 330, "height": 220,
+      "text": "PART 2: CREDIBILITY — 15 min\n\n3 Case Studies (real numbers):\n\n• Houston Med Spa:\n  $20K → $131K/mo (21.7x ROAS)\n\n• All About Beautiful Smiles:\n  $142K → $202K/mo (19.4x ROAS)\n\n• Vitality & Aesthetics:\n  $5K → $38K/mo (12.9x ROAS)\n\n\"None worked more hours.\nThey installed a SYSTEM.\"",
+      "fontSize": 14, "fontFamily": 1, "textAlign": "left", "verticalAlign": "top",
+      "containerId": null, "originalText": "PART 2: CREDIBILITY — 15 min\n\n3 Case Studies (real numbers):\n\n• Houston Med Spa:\n  $20K → $131K/mo (21.7x ROAS)\n\n• All About Beautiful Smiles:\n  $142K → $202K/mo (19.4x ROAS)\n\n• Vitality & Aesthetics:\n  $5K → $38K/mo (12.9x ROAS)\n\n\"None worked more hours.\nThey installed a SYSTEM.\"",
+      "autoResize": true, "lineHeight": 1.25,
+      "fillStyle": "solid", "strokeWidth": 2, "strokeStyle": "solid", "roughness": 0, "opacity": 100,
+      "strokeColor": "#1e1e1e", "backgroundColor": "transparent",
+      "isDeleted": false, "angle": 0, "seed": 67, "groupIds": [], "frameId": null,
+      "boundElements": null, "updated": 1, "link": null, "locked": false, "versionNonce": 0
+    },
+    {
+      "type": "rectangle", "id": "w4", "x": 1220, "y": 1460, "width": 400, "height": 240,
+      "fillStyle": "solid", "strokeWidth": 2, "strokeStyle": "solid", "roughness": 0, "opacity": 100,
+      "strokeColor": "#1e1e1e", "backgroundColor": "#ffffff", "roundness": { "type": 3 },
+      "isDeleted": false, "angle": 0, "seed": 68, "groupIds": [], "frameId": null,
+      "boundElements": null, "updated": 1, "link": null, "locked": false, "versionNonce": 0
+    },
+    {
+      "type": "text", "id": "w4-text", "x": 1230, "y": 1470, "width": 380, "height": 220,
+      "text": "PART 3: THE FRAMEWORK — 25 min\n\n3 AI Systems:\n\n1. AI Patient Acquisition\n   Chatbots + voice agents\n   < 60 second response time\n\n2. Content & Ad Engine\n   253 Method + SPY Method\n   AI creative tools demo\n\n3. Operations Autopilot\n   No-show reduction (50% cut)\n   Reactivation + review automation",
+      "fontSize": 14, "fontFamily": 1, "textAlign": "left", "verticalAlign": "top",
+      "containerId": null, "originalText": "PART 3: THE FRAMEWORK — 25 min\n\n3 AI Systems:\n\n1. AI Patient Acquisition\n   Chatbots + voice agents\n   < 60 second response time\n\n2. Content & Ad Engine\n   253 Method + SPY Method\n   AI creative tools demo\n\n3. Operations Autopilot\n   No-show reduction (50% cut)\n   Reactivation + review automation",
+      "autoResize": true, "lineHeight": 1.25,
+      "fillStyle": "solid", "strokeWidth": 2, "strokeStyle": "solid", "roughness": 0, "opacity": 100,
+      "strokeColor": "#1e1e1e", "backgroundColor": "transparent",
+      "isDeleted": false, "angle": 0, "seed": 69, "groupIds": [], "frameId": null,
+      "boundElements": null, "updated": 1, "link": null, "locked": false, "versionNonce": 0
+    },
+    {
+      "type": "rectangle", "id": "w5", "x": 1650, "y": 1460, "width": 380, "height": 240,
+      "fillStyle": "solid", "strokeWidth": 2, "strokeStyle": "solid", "roughness": 0, "opacity": 100,
+      "strokeColor": "#f59e0b", "backgroundColor": "#fff3bf", "roundness": { "type": 3 },
+      "isDeleted": false, "angle": 0, "seed": 70, "groupIds": [], "frameId": null,
+      "boundElements": null, "updated": 1, "link": null, "locked": false, "versionNonce": 0
+    },
+    {
+      "type": "text", "id": "w5-text", "x": 1660, "y": 1470, "width": 360, "height": 220,
+      "text": "PART 4: THE STACK — 15 min\n\nPresent $997 offer:\n• Value stack: $18,154\n• Live bonuses (Sun deadline)\n• 3 payment option: $397 × 3\n• ROI math on screen\n\nPART 5: Q&A + CLOSE — 20 min\n\nHandle objections live:\n• \"Not tech-savvy\" → click-by-click\n• \"Tried ads before\" → system ≠ random\n• \"Can I hire you?\" → /apply\n• Deadline reminder: Sunday midnight",
+      "fontSize": 14, "fontFamily": 1, "textAlign": "left", "verticalAlign": "top",
+      "containerId": null, "originalText": "PART 4: THE STACK — 15 min\n\nPresent $997 offer:\n• Value stack: $18,154\n• Live bonuses (Sun deadline)\n• 3 payment option: $397 × 3\n• ROI math on screen\n\nPART 5: Q&A + CLOSE — 20 min\n\nHandle objections live:\n• \"Not tech-savvy\" → click-by-click\n• \"Tried ads before\" → system ≠ random\n• \"Can I hire you?\" → /apply\n• Deadline reminder: Sunday midnight",
+      "autoResize": true, "lineHeight": 1.25,
+      "fillStyle": "solid", "strokeWidth": 2, "strokeStyle": "solid", "roughness": 0, "opacity": 100,
+      "strokeColor": "#1e1e1e", "backgroundColor": "transparent",
+      "isDeleted": false, "angle": 0, "seed": 71, "groupIds": [], "frameId": null,
+      "boundElements": null, "updated": 1, "link": null, "locked": false, "versionNonce": 0
+    },
+
+    {
+      "type": "text", "id": "webinar-flow-label", "x": 220, "y": 1730, "width": 2260, "height": 250,
+      "text": "WEBINAR FLOW: Pre-Show (5m) ──→ Hook (10m) ──→ Credibility (15m) ──→ Framework (25m) ──→ Stack + Q&A (35m)\n\nKEY RULES:\n• Give the WHAT and WHY completely. Give enough HOW to prove expertise — but make it clear full implementation is complex.\n• Show real dashboards/screenshots for case studies — not slides with numbers.\n• The Pipeline Audit Call bonus is the TROJAN HORSE — it's where agency upsells happen.\n• \"Whether you join or not, go implement the SPY Method tonight\" — give them a win regardless.\n\nPLATFORM: Zoom Webinar or StreamYard  |  RECORDING: Yes — becomes replay for no-shows",
+      "fontSize": 16, "fontFamily": 1, "textAlign": "left", "verticalAlign": "top",
+      "containerId": null, "originalText": "WEBINAR FLOW: Pre-Show (5m) ──→ Hook (10m) ──→ Credibility (15m) ──→ Framework (25m) ──→ Stack + Q&A (35m)\n\nKEY RULES:\n• Give the WHAT and WHY completely. Give enough HOW to prove expertise — but make it clear full implementation is complex.\n• Show real dashboards/screenshots for case studies — not slides with numbers.\n• The Pipeline Audit Call bonus is the TROJAN HORSE — it's where agency upsells happen.\n• \"Whether you join or not, go implement the SPY Method tonight\" — give them a win regardless.\n\nPLATFORM: Zoom Webinar or StreamYard  |  RECORDING: Yes — becomes replay for no-shows",
+      "autoResize": true, "lineHeight": 1.25,
+      "fillStyle": "solid", "strokeWidth": 2, "strokeStyle": "solid", "roughness": 0, "opacity": 100,
+      "strokeColor": "#1e1e1e", "backgroundColor": "transparent",
+      "isDeleted": false, "angle": 0, "seed": 72, "groupIds": [], "frameId": null,
+      "boundElements": null, "updated": 1, "link": null, "locked": false, "versionNonce": 0
+    },
+
+    {
+      "type": "arrow", "id": "arrow-nurture-webinar", "x": 1225, "y": 1280, "width": 0, "height": 120,
+      "points": [[0, 0], [0, 120]],
+      "startArrowhead": null, "endArrowhead": "arrow",
+      "startBinding": { "elementId": "nurture-bg", "focus": 0, "gap": 1, "fixedPoint": [0.5, 1] },
+      "endBinding": { "elementId": "webinar-bg", "focus": 0, "gap": 1, "fixedPoint": [0.5, 0] },
+      "fillStyle": "solid", "strokeWidth": 3, "strokeStyle": "solid", "roughness": 0, "opacity": 100,
+      "strokeColor": "#f59e0b", "backgroundColor": "transparent",
+      "isDeleted": false, "angle": 0, "seed": 102, "groupIds": [], "frameId": null,
+      "boundElements": null, "updated": 1, "link": null, "locked": false, "versionNonce": 0
+    },
+
+    {
+      "type": "diamond", "id": "decision-diamond", "x": 1150, "y": 2060, "width": 300, "height": 150,
+      "fillStyle": "solid", "strokeWidth": 3, "strokeStyle": "solid", "roughness": 0, "opacity": 100,
+      "strokeColor": "#1e1e1e", "backgroundColor": "#fff3bf", "roundness": null,
+      "isDeleted": false, "angle": 0, "seed": 80, "groupIds": [], "frameId": null,
+      "boundElements": [{"id": "decision-text", "type": "text"}], "updated": 1, "link": null, "locked": false, "versionNonce": 0
+    },
+    {
+      "type": "text", "id": "decision-text", "x": 1210, "y": 2110, "width": 180, "height": 50,
+      "text": "ATTENDED\nWEBINAR?",
+      "fontSize": 18, "fontFamily": 1, "textAlign": "center", "verticalAlign": "middle",
+      "containerId": "decision-diamond", "originalText": "ATTENDED\nWEBINAR?",
+      "autoResize": true, "lineHeight": 1.25,
+      "fillStyle": "solid", "strokeWidth": 2, "strokeStyle": "solid", "roughness": 0, "opacity": 100,
+      "strokeColor": "#1e1e1e", "backgroundColor": "transparent",
+      "isDeleted": false, "angle": 0, "seed": 81, "groupIds": [], "frameId": null,
+      "boundElements": null, "updated": 1, "link": null, "locked": false, "versionNonce": 0
+    },
+
+    {
+      "type": "rectangle", "id": "attendee-bg", "x": 50, "y": 2300, "width": 900, "height": 550,
+      "fillStyle": "solid", "strokeWidth": 2, "strokeStyle": "solid", "roughness": 0, "opacity": 100,
+      "strokeColor": "#22c55e", "backgroundColor": "#b2f2bb", "roundness": { "type": 3 },
+      "isDeleted": false, "angle": 0, "seed": 82, "groupIds": [], "frameId": null,
+      "boundElements": null, "updated": 1, "link": null, "locked": false, "versionNonce": 0
+    },
+    {
+      "type": "text", "id": "attendee-title", "x": 70, "y": 2310, "width": 860, "height": 35,
+      "text": "ATTENDEE FOLLOW-UP (72-hr Cart Window)",
+      "fontSize": 24, "fontFamily": 1, "textAlign": "center", "verticalAlign": "top",
+      "containerId": null, "originalText": "ATTENDEE FOLLOW-UP (72-hr Cart Window)",
+      "autoResize": true, "lineHeight": 1.25,
+      "fillStyle": "solid", "strokeWidth": 2, "strokeStyle": "solid", "roughness": 0, "opacity": 100,
+      "strokeColor": "#1e1e1e", "backgroundColor": "transparent",
+      "isDeleted": false, "angle": 0, "seed": 83, "groupIds": [], "frameId": null,
+      "boundElements": null, "updated": 1, "link": null, "locked": false, "versionNonce": 0
+    },
+    {
+      "type": "text", "id": "attendee-content", "x": 70, "y": 2355, "width": 860, "height": 480,
+      "text": "Tag: 'webinar-attended'\n\nTHURSDAY 8:30 PM:\n  SMS + Email: Blueprint delivery + offer link + replay\n\nFRIDAY 10 AM:\n  SMS + Email: Case study deep dive\n  \"12 appointments in WEEK ONE\"\n\nSATURDAY 10 AM:\n  SMS + Email: Social proof + objection handling\n  \"I was skeptical, but...\"\n\nSUNDAY 10 AM:\n  SMS + Email: Deadline reminder — \"Last day\"\n\nSUNDAY 6 PM:\n  SMS: \"6 hours left\"\n\nSUNDAY 9 PM:\n  Email: \"3 hours\" — final email\n\nSUNDAY 11 PM:\n  SMS: \"1 hour left\" — last touch\n\nGHL WORKFLOW: \"Webinar Attendee Follow-Up\"\nEXIT: Tag 'pipeline-purchased' or cart closes",
+      "fontSize": 16, "fontFamily": 1, "textAlign": "left", "verticalAlign": "top",
+      "containerId": null, "originalText": "Tag: 'webinar-attended'\n\nTHURSDAY 8:30 PM:\n  SMS + Email: Blueprint delivery + offer link + replay\n\nFRIDAY 10 AM:\n  SMS + Email: Case study deep dive\n  \"12 appointments in WEEK ONE\"\n\nSATURDAY 10 AM:\n  SMS + Email: Social proof + objection handling\n  \"I was skeptical, but...\"\n\nSUNDAY 10 AM:\n  SMS + Email: Deadline reminder — \"Last day\"\n\nSUNDAY 6 PM:\n  SMS: \"6 hours left\"\n\nSUNDAY 9 PM:\n  Email: \"3 hours\" — final email\n\nSUNDAY 11 PM:\n  SMS: \"1 hour left\" — last touch\n\nGHL WORKFLOW: \"Webinar Attendee Follow-Up\"\nEXIT: Tag 'pipeline-purchased' or cart closes",
+      "autoResize": true, "lineHeight": 1.25,
+      "fillStyle": "solid", "strokeWidth": 2, "strokeStyle": "solid", "roughness": 0, "opacity": 100,
+      "strokeColor": "#1e1e1e", "backgroundColor": "transparent",
+      "isDeleted": false, "angle": 0, "seed": 84, "groupIds": [], "frameId": null,
+      "boundElements": null, "updated": 1, "link": null, "locked": false, "versionNonce": 0
+    },
+
+    {
+      "type": "rectangle", "id": "noshow-bg", "x": 1050, "y": 2300, "width": 750, "height": 420,
+      "fillStyle": "solid", "strokeWidth": 2, "strokeStyle": "solid", "roughness": 0, "opacity": 100,
+      "strokeColor": "#ef4444", "backgroundColor": "#ffc9c9", "roundness": { "type": 3 },
+      "isDeleted": false, "angle": 0, "seed": 85, "groupIds": [], "frameId": null,
+      "boundElements": null, "updated": 1, "link": null, "locked": false, "versionNonce": 0
+    },
+    {
+      "type": "text", "id": "noshow-title", "x": 1070, "y": 2310, "width": 710, "height": 35,
+      "text": "NO-SHOW REPLAY SEQUENCE",
+      "fontSize": 24, "fontFamily": 1, "textAlign": "center", "verticalAlign": "top",
+      "containerId": null, "originalText": "NO-SHOW REPLAY SEQUENCE",
+      "autoResize": true, "lineHeight": 1.25,
+      "fillStyle": "solid", "strokeWidth": 2, "strokeStyle": "solid", "roughness": 0, "opacity": 100,
+      "strokeColor": "#1e1e1e", "backgroundColor": "transparent",
+      "isDeleted": false, "angle": 0, "seed": 86, "groupIds": [], "frameId": null,
+      "boundElements": null, "updated": 1, "link": null, "locked": false, "versionNonce": 0
+    },
+    {
+      "type": "text", "id": "noshow-content", "x": 1070, "y": 2355, "width": 710, "height": 350,
+      "text": "Tag: 'webinar-no-show'\n\nTHURSDAY 8:45 PM:\n  SMS + Email: \"We missed you\" + replay link\n  \"Available for 72 hours\"\n\nFRIDAY 12 PM:\n  SMS: Replay nudge — \"SPY Method section alone\n  is worth your time\"\n\nSATURDAY 10 AM:\n  SMS + Email: Replay reminder + social proof\n  \"2,347 practice owners watched this\"\n\nSUNDAY 12 PM:\n  SMS: Final replay reminder\n  \"Comes down at midnight\"\n\nGHL WORKFLOW: \"Webinar No-Show Replay\"\nEXIT: Watches replay → enters attendee track\n      or cart closes → enters long-term nurture",
+      "fontSize": 16, "fontFamily": 1, "textAlign": "left", "verticalAlign": "top",
+      "containerId": null, "originalText": "Tag: 'webinar-no-show'\n\nTHURSDAY 8:45 PM:\n  SMS + Email: \"We missed you\" + replay link\n  \"Available for 72 hours\"\n\nFRIDAY 12 PM:\n  SMS: Replay nudge — \"SPY Method section alone\n  is worth your time\"\n\nSATURDAY 10 AM:\n  SMS + Email: Replay reminder + social proof\n  \"2,347 practice owners watched this\"\n\nSUNDAY 12 PM:\n  SMS: Final replay reminder\n  \"Comes down at midnight\"\n\nGHL WORKFLOW: \"Webinar No-Show Replay\"\nEXIT: Watches replay → enters attendee track\n      or cart closes → enters long-term nurture",
+      "autoResize": true, "lineHeight": 1.25,
+      "fillStyle": "solid", "strokeWidth": 2, "strokeStyle": "solid", "roughness": 0, "opacity": 100,
+      "strokeColor": "#1e1e1e", "backgroundColor": "transparent",
+      "isDeleted": false, "angle": 0, "seed": 87, "groupIds": [], "frameId": null,
+      "boundElements": null, "updated": 1, "link": null, "locked": false, "versionNonce": 0
+    },
+
+    {
+      "type": "text", "id": "yes-label", "x": 350, "y": 2220, "width": 100, "height": 30,
+      "text": "YES",
+      "fontSize": 24, "fontFamily": 1, "textAlign": "center", "verticalAlign": "top",
+      "containerId": null, "originalText": "YES",
+      "autoResize": true, "lineHeight": 1.25,
+      "fillStyle": "solid", "strokeWidth": 2, "strokeStyle": "solid", "roughness": 0, "opacity": 100,
+      "strokeColor": "#22c55e", "backgroundColor": "transparent",
+      "isDeleted": false, "angle": 0, "seed": 88, "groupIds": [], "frameId": null,
+      "boundElements": null, "updated": 1, "link": null, "locked": false, "versionNonce": 0
+    },
+    {
+      "type": "text", "id": "no-label", "x": 1350, "y": 2220, "width": 100, "height": 30,
+      "text": "NO",
+      "fontSize": 24, "fontFamily": 1, "textAlign": "center", "verticalAlign": "top",
+      "containerId": null, "originalText": "NO",
+      "autoResize": true, "lineHeight": 1.25,
+      "fillStyle": "solid", "strokeWidth": 2, "strokeStyle": "solid", "roughness": 0, "opacity": 100,
+      "strokeColor": "#ef4444", "backgroundColor": "transparent",
+      "isDeleted": false, "angle": 0, "seed": 89, "groupIds": [], "frameId": null,
+      "boundElements": null, "updated": 1, "link": null, "locked": false, "versionNonce": 0
+    },
+
+    {
+      "type": "diamond", "id": "cart-decision", "x": 500, "y": 2920, "width": 300, "height": 150,
+      "fillStyle": "solid", "strokeWidth": 3, "strokeStyle": "solid", "roughness": 0, "opacity": 100,
+      "strokeColor": "#1e1e1e", "backgroundColor": "#fff3bf", "roundness": null,
+      "isDeleted": false, "angle": 0, "seed": 90, "groupIds": [], "frameId": null,
+      "boundElements": [{"id": "cart-text", "type": "text"}], "updated": 1, "link": null, "locked": false, "versionNonce": 0
+    },
+    {
+      "type": "text", "id": "cart-text", "x": 560, "y": 2970, "width": 180, "height": 50,
+      "text": "PURCHASED\n$997?",
+      "fontSize": 18, "fontFamily": 1, "textAlign": "center", "verticalAlign": "middle",
+      "containerId": "cart-decision", "originalText": "PURCHASED\n$997?",
+      "autoResize": true, "lineHeight": 1.25,
+      "fillStyle": "solid", "strokeWidth": 2, "strokeStyle": "solid", "roughness": 0, "opacity": 100,
+      "strokeColor": "#1e1e1e", "backgroundColor": "transparent",
+      "isDeleted": false, "angle": 0, "seed": 91, "groupIds": [], "frameId": null,
+      "boundElements": null, "updated": 1, "link": null, "locked": false, "versionNonce": 0
+    },
+
+    {
+      "type": "rectangle", "id": "purchased-bg", "x": 50, "y": 3150, "width": 700, "height": 500,
+      "fillStyle": "solid", "strokeWidth": 3, "strokeStyle": "solid", "roughness": 0, "opacity": 100,
+      "strokeColor": "#22c55e", "backgroundColor": "#b2f2bb", "roundness": { "type": 3 },
+      "isDeleted": false, "angle": 0, "seed": 92, "groupIds": [], "frameId": null,
+      "boundElements": null, "updated": 1, "link": null, "locked": false, "versionNonce": 0
+    },
+    {
+      "type": "text", "id": "purchased-title", "x": 70, "y": 3160, "width": 660, "height": 35,
+      "text": "PURCHASED — Onboarding",
+      "fontSize": 24, "fontFamily": 1, "textAlign": "center", "verticalAlign": "top",
+      "containerId": null, "originalText": "PURCHASED — Onboarding",
+      "autoResize": true, "lineHeight": 1.25,
+      "fillStyle": "solid", "strokeWidth": 2, "strokeStyle": "solid", "roughness": 0, "opacity": 100,
+      "strokeColor": "#1e1e1e", "backgroundColor": "transparent",
+      "isDeleted": false, "angle": 0, "seed": 93, "groupIds": [], "frameId": null,
+      "boundElements": null, "updated": 1, "link": null, "locked": false, "versionNonce": 0
+    },
+    {
+      "type": "text", "id": "purchased-content", "x": 70, "y": 3205, "width": 660, "height": 430,
+      "text": "Tag: 'pipeline-purchased'\nEXIT all webinar sequences immediately\n\nIMMEDIATELY:\n  • Pipeline Blueprint PDF delivered\n  • Skool community access granted\n  • Course access unlocked\n  • Custom ads request (send URL)\n\nWITHIN 24 HOURS:\n  • Pipeline Audit Call booking link sent\n  • Welcome to community message\n\nWITHIN 48 HOURS:\n  • 10 custom ad creatives delivered\n\nTHE AUDIT CALL = TROJAN HORSE\n  This is where agency upsell happens.\n  Diagnose their situation → identify\n  who needs done-for-you → present\n  $5K/month agency offer naturally.\n\n  15-20% convert = 1-2 per webinar\n  = $5K-10K/month recurring per client",
+      "fontSize": 16, "fontFamily": 1, "textAlign": "left", "verticalAlign": "top",
+      "containerId": null, "originalText": "Tag: 'pipeline-purchased'\nEXIT all webinar sequences immediately\n\nIMMEDIATELY:\n  • Pipeline Blueprint PDF delivered\n  • Skool community access granted\n  • Course access unlocked\n  • Custom ads request (send URL)\n\nWITHIN 24 HOURS:\n  • Pipeline Audit Call booking link sent\n  • Welcome to community message\n\nWITHIN 48 HOURS:\n  • 10 custom ad creatives delivered\n\nTHE AUDIT CALL = TROJAN HORSE\n  This is where agency upsell happens.\n  Diagnose their situation → identify\n  who needs done-for-you → present\n  $5K/month agency offer naturally.\n\n  15-20% convert = 1-2 per webinar\n  = $5K-10K/month recurring per client",
+      "autoResize": true, "lineHeight": 1.25,
+      "fillStyle": "solid", "strokeWidth": 2, "strokeStyle": "solid", "roughness": 0, "opacity": 100,
+      "strokeColor": "#1e1e1e", "backgroundColor": "transparent",
+      "isDeleted": false, "angle": 0, "seed": 94, "groupIds": [], "frameId": null,
+      "boundElements": null, "updated": 1, "link": null, "locked": false, "versionNonce": 0
+    },
+
+    {
+      "type": "rectangle", "id": "notpurchased-bg", "x": 850, "y": 3150, "width": 700, "height": 380,
+      "fillStyle": "solid", "strokeWidth": 2, "strokeStyle": "solid", "roughness": 0, "opacity": 100,
+      "strokeColor": "#f59e0b", "backgroundColor": "#ffd8a8", "roundness": { "type": 3 },
+      "isDeleted": false, "angle": 0, "seed": 95, "groupIds": [], "frameId": null,
+      "boundElements": null, "updated": 1, "link": null, "locked": false, "versionNonce": 0
+    },
+    {
+      "type": "text", "id": "notpurchased-title", "x": 870, "y": 3160, "width": 660, "height": 35,
+      "text": "NOT PURCHASED — Re-Nurture",
+      "fontSize": 24, "fontFamily": 1, "textAlign": "center", "verticalAlign": "top",
+      "containerId": null, "originalText": "NOT PURCHASED — Re-Nurture",
+      "autoResize": true, "lineHeight": 1.25,
+      "fillStyle": "solid", "strokeWidth": 2, "strokeStyle": "solid", "roughness": 0, "opacity": 100,
+      "strokeColor": "#1e1e1e", "backgroundColor": "transparent",
+      "isDeleted": false, "angle": 0, "seed": 96, "groupIds": [], "frameId": null,
+      "boundElements": null, "updated": 1, "link": null, "locked": false, "versionNonce": 0
+    },
+    {
+      "type": "text", "id": "notpurchased-content", "x": 870, "y": 3205, "width": 660, "height": 310,
+      "text": "Tag: 'webinar-no-buy'\n\nPATH 1: 7-Day Email Nurture\n  Existing sequence (Days 0-7)\n  Case studies + AI tools + frameworks\n  CTA: Roadmap, Sales Page, Strategy Call\n\nPATH 2: Downsell to $197 Course\n  \"Not ready for the full program?\n  Start with the FB Ads Course\"\n\nPATH 3: Re-Enter Next Webinar\n  Tuesday email: \"Join us this Thursday\"\n  New angle/hook each week\n\nPATH 4: Community Invite (Skool)\n  Free community as soft entry point\n  Weekly exposure → eventual conversion\n\nNO LEAD LEFT BEHIND — every path\nleads back to the webinar funnel",
+      "fontSize": 16, "fontFamily": 1, "textAlign": "left", "verticalAlign": "top",
+      "containerId": null, "originalText": "Tag: 'webinar-no-buy'\n\nPATH 1: 7-Day Email Nurture\n  Existing sequence (Days 0-7)\n  Case studies + AI tools + frameworks\n  CTA: Roadmap, Sales Page, Strategy Call\n\nPATH 2: Downsell to $197 Course\n  \"Not ready for the full program?\n  Start with the FB Ads Course\"\n\nPATH 3: Re-Enter Next Webinar\n  Tuesday email: \"Join us this Thursday\"\n  New angle/hook each week\n\nPATH 4: Community Invite (Skool)\n  Free community as soft entry point\n  Weekly exposure → eventual conversion\n\nNO LEAD LEFT BEHIND — every path\nleads back to the webinar funnel",
+      "autoResize": true, "lineHeight": 1.25,
+      "fillStyle": "solid", "strokeWidth": 2, "strokeStyle": "solid", "roughness": 0, "opacity": 100,
+      "strokeColor": "#1e1e1e", "backgroundColor": "transparent",
+      "isDeleted": false, "angle": 0, "seed": 97, "groupIds": [], "frameId": null,
+      "boundElements": null, "updated": 1, "link": null, "locked": false, "versionNonce": 0
+    },
+
+    {
+      "type": "rectangle", "id": "agency-bg", "x": 1650, "y": 3150, "width": 850, "height": 500,
+      "fillStyle": "solid", "strokeWidth": 3, "strokeStyle": "solid", "roughness": 0, "opacity": 100,
+      "strokeColor": "#8b5cf6", "backgroundColor": "#d0bfff", "roundness": { "type": 3 },
+      "isDeleted": false, "angle": 0, "seed": 200, "groupIds": [], "frameId": null,
+      "boundElements": null, "updated": 1, "link": null, "locked": false, "versionNonce": 0
+    },
+    {
+      "type": "text", "id": "agency-title", "x": 1670, "y": 3160, "width": 810, "height": 35,
+      "text": "$5K/MONTH AGENCY UPSELL (4-mo min = $20K LTV)",
+      "fontSize": 24, "fontFamily": 1, "textAlign": "center", "verticalAlign": "top",
+      "containerId": null, "originalText": "$5K/MONTH AGENCY UPSELL (4-mo min = $20K LTV)",
+      "autoResize": true, "lineHeight": 1.25,
+      "fillStyle": "solid", "strokeWidth": 2, "strokeStyle": "solid", "roughness": 0, "opacity": 100,
+      "strokeColor": "#1e1e1e", "backgroundColor": "transparent",
+      "isDeleted": false, "angle": 0, "seed": 201, "groupIds": [], "frameId": null,
+      "boundElements": null, "updated": 1, "link": null, "locked": false, "versionNonce": 0
+    },
+    {
+      "type": "text", "id": "agency-content", "x": 1670, "y": 3205, "width": 810, "height": 430,
+      "text": "TRIGGER: Pipeline Audit Call (from $997 purchase)\n         + Skool community engagement signals\n\nWHAT THEY GET ($5K/month × 4 months):\n\nMONTH 1 — FOUNDATION\n  Full marketing audit + competitive analysis\n  AI appointment setter setup (voice + chat)\n  First 3 ad campaigns launched\n  GHL automation buildout\n  Weekly strategy call\n\nMONTH 2 — OPTIMIZATION\n  Scale winners, kill losers\n  Patient reactivation campaigns\n  Review automation active\n  A/B testing creative\n\nMONTH 3 — SCALE\n  New audience segments + retargeting\n  Messenger/chatbot campaigns\n  Optimize for ROAS\n\nMONTH 4 — HANDOFF OR RETAIN\n  Full documentation + team training\n  Option: continue at $5K/mo ongoing\n  Many stay 6-12 months ($60-72K LTV)\n\nCONVERSION: 15-20% of $997 buyers = 1-2/webinar",
+      "fontSize": 16, "fontFamily": 1, "textAlign": "left", "verticalAlign": "top",
+      "containerId": null, "originalText": "TRIGGER: Pipeline Audit Call (from $997 purchase)\n         + Skool community engagement signals\n\nWHAT THEY GET ($5K/month × 4 months):\n\nMONTH 1 — FOUNDATION\n  Full marketing audit + competitive analysis\n  AI appointment setter setup (voice + chat)\n  First 3 ad campaigns launched\n  GHL automation buildout\n  Weekly strategy call\n\nMONTH 2 — OPTIMIZATION\n  Scale winners, kill losers\n  Patient reactivation campaigns\n  Review automation active\n  A/B testing creative\n\nMONTH 3 — SCALE\n  New audience segments + retargeting\n  Messenger/chatbot campaigns\n  Optimize for ROAS\n\nMONTH 4 — HANDOFF OR RETAIN\n  Full documentation + team training\n  Option: continue at $5K/mo ongoing\n  Many stay 6-12 months ($60-72K LTV)\n\nCONVERSION: 15-20% of $997 buyers = 1-2/webinar",
+      "autoResize": true, "lineHeight": 1.25,
+      "fillStyle": "solid", "strokeWidth": 2, "strokeStyle": "solid", "roughness": 0, "opacity": 100,
+      "strokeColor": "#1e1e1e", "backgroundColor": "transparent",
+      "isDeleted": false, "angle": 0, "seed": 202, "groupIds": [], "frameId": null,
+      "boundElements": null, "updated": 1, "link": null, "locked": false, "versionNonce": 0
+    },
+
+    {
+      "type": "rectangle", "id": "kpi-bg", "x": 50, "y": 3730, "width": 1200, "height": 380,
+      "fillStyle": "solid", "strokeWidth": 2, "strokeStyle": "solid", "roughness": 0, "opacity": 100,
+      "strokeColor": "#06b6d4", "backgroundColor": "#c3fae8", "roundness": { "type": 3 },
+      "isDeleted": false, "angle": 0, "seed": 300, "groupIds": [], "frameId": null,
+      "boundElements": null, "updated": 1, "link": null, "locked": false, "versionNonce": 0
+    },
+    {
+      "type": "text", "id": "kpi-title", "x": 70, "y": 3740, "width": 1160, "height": 35,
+      "text": "KPIs & SUCCESS METRICS",
+      "fontSize": 28, "fontFamily": 1, "textAlign": "center", "verticalAlign": "top",
+      "containerId": null, "originalText": "KPIs & SUCCESS METRICS",
+      "autoResize": true, "lineHeight": 1.25,
+      "fillStyle": "solid", "strokeWidth": 2, "strokeStyle": "solid", "roughness": 0, "opacity": 100,
+      "strokeColor": "#1e1e1e", "backgroundColor": "transparent",
+      "isDeleted": false, "angle": 0, "seed": 301, "groupIds": [], "frameId": null,
+      "boundElements": null, "updated": 1, "link": null, "locked": false, "versionNonce": 0
+    },
+    {
+      "type": "text", "id": "kpi-content", "x": 70, "y": 3785, "width": 1160, "height": 310,
+      "text": "WEEKLY TARGETS:\n  Registration rate (ad click → register): 35%+\n  Show-up rate (registered → attended): 45%+\n  Offer conversion (attendees → buyers): 10-15%\n  Replay conversion (no-shows → buyers): 5%+\n  Cost per registrant: < $12\n  Revenue per registrant: $50+\n  Weekly revenue: $12,500+\n  Monthly ROAS: 7x+\n\nOPTIMIZATION PRIORITY (in order):\n  1. Show-up rate — biggest revenue lever\n  2. Offer conversion — webinar content + pitch\n  3. Registration rate — ads + landing page\n  4. Replay conversion — no-show sequence\n  5. Cost per registrant — ad efficiency",
+      "fontSize": 16, "fontFamily": 1, "textAlign": "left", "verticalAlign": "top",
+      "containerId": null, "originalText": "WEEKLY TARGETS:\n  Registration rate (ad click → register): 35%+\n  Show-up rate (registered → attended): 45%+\n  Offer conversion (attendees → buyers): 10-15%\n  Replay conversion (no-shows → buyers): 5%+\n  Cost per registrant: < $12\n  Revenue per registrant: $50+\n  Weekly revenue: $12,500+\n  Monthly ROAS: 7x+\n\nOPTIMIZATION PRIORITY (in order):\n  1. Show-up rate — biggest revenue lever\n  2. Offer conversion — webinar content + pitch\n  3. Registration rate — ads + landing page\n  4. Replay conversion — no-show sequence\n  5. Cost per registrant — ad efficiency",
+      "autoResize": true, "lineHeight": 1.25,
+      "fillStyle": "solid", "strokeWidth": 2, "strokeStyle": "solid", "roughness": 0, "opacity": 100,
+      "strokeColor": "#1e1e1e", "backgroundColor": "transparent",
+      "isDeleted": false, "angle": 0, "seed": 302, "groupIds": [], "frameId": null,
+      "boundElements": null, "updated": 1, "link": null, "locked": false, "versionNonce": 0
+    },
+
+    {
+      "type": "rectangle", "id": "timeline-bg", "x": 1300, "y": 3730, "width": 1200, "height": 380,
+      "fillStyle": "solid", "strokeWidth": 2, "strokeStyle": "solid", "roughness": 0, "opacity": 100,
+      "strokeColor": "#8b5cf6", "backgroundColor": "#eebefa", "roundness": { "type": 3 },
+      "isDeleted": false, "angle": 0, "seed": 310, "groupIds": [], "frameId": null,
+      "boundElements": null, "updated": 1, "link": null, "locked": false, "versionNonce": 0
+    },
+    {
+      "type": "text", "id": "timeline-title", "x": 1320, "y": 3740, "width": 1160, "height": 35,
+      "text": "IMPLEMENTATION TIMELINE",
+      "fontSize": 28, "fontFamily": 1, "textAlign": "center", "verticalAlign": "top",
+      "containerId": null, "originalText": "IMPLEMENTATION TIMELINE",
+      "autoResize": true, "lineHeight": 1.25,
+      "fillStyle": "solid", "strokeWidth": 2, "strokeStyle": "solid", "roughness": 0, "opacity": 100,
+      "strokeColor": "#1e1e1e", "backgroundColor": "transparent",
+      "isDeleted": false, "angle": 0, "seed": 311, "groupIds": [], "frameId": null,
+      "boundElements": null, "updated": 1, "link": null, "locked": false, "versionNonce": 0
+    },
+    {
+      "type": "text", "id": "timeline-content", "x": 1320, "y": 3785, "width": 1160, "height": 310,
+      "text": "WEEK 1 (NOW):\n  [x] Landing pages live (V1-V4 with auto-dates)\n  [ ] GHL workflows (confirm, remind, follow-up)\n  [ ] Email/SMS templates in GHL\n  [ ] Webinar platform (Zoom/StreamYard)\n  [ ] Pipeline Blueprint PDF\n  [ ] Offer/checkout page ($997)\n\nWEEK 2 — LAUNCH:\n  [ ] Facebook ads live (2 × 5 creatives, $100/day)\n  [ ] Split test V3 vs V4 landing pages\n  [ ] FIRST LIVE WEBINAR (Thursday)\n  [ ] Activate all follow-up sequences\n\nWEEK 3-4 — OPTIMIZE:\n  [ ] Scale winning ad creatives\n  [ ] Refine webinar pitch from Q&A patterns\n  [ ] Add social proof from first buyers\n\nMONTH 2 — SCALE:\n  [ ] Retargeting campaigns\n  [ ] Webinar clips for social\n  [ ] Consider evergreen replay\n\nMONTH 3 — COMPOUND:\n  [ ] Evergreen + live hybrid\n  [ ] Agency base growing ($60K+/mo recurring)",
+      "fontSize": 16, "fontFamily": 1, "textAlign": "left", "verticalAlign": "top",
+      "containerId": null, "originalText": "WEEK 1 (NOW):\n  [x] Landing pages live (V1-V4 with auto-dates)\n  [ ] GHL workflows (confirm, remind, follow-up)\n  [ ] Email/SMS templates in GHL\n  [ ] Webinar platform (Zoom/StreamYard)\n  [ ] Pipeline Blueprint PDF\n  [ ] Offer/checkout page ($997)\n\nWEEK 2 — LAUNCH:\n  [ ] Facebook ads live (2 × 5 creatives, $100/day)\n  [ ] Split test V3 vs V4 landing pages\n  [ ] FIRST LIVE WEBINAR (Thursday)\n  [ ] Activate all follow-up sequences\n\nWEEK 3-4 — OPTIMIZE:\n  [ ] Scale winning ad creatives\n  [ ] Refine webinar pitch from Q&A patterns\n  [ ] Add social proof from first buyers\n\nMONTH 2 — SCALE:\n  [ ] Retargeting campaigns\n  [ ] Webinar clips for social\n  [ ] Consider evergreen replay\n\nMONTH 3 — COMPOUND:\n  [ ] Evergreen + live hybrid\n  [ ] Agency base growing ($60K+/mo recurring)",
+      "autoResize": true, "lineHeight": 1.25,
+      "fillStyle": "solid", "strokeWidth": 2, "strokeStyle": "solid", "roughness": 0, "opacity": 100,
+      "strokeColor": "#1e1e1e", "backgroundColor": "transparent",
+      "isDeleted": false, "angle": 0, "seed": 312, "groupIds": [], "frameId": null,
+      "boundElements": null, "updated": 1, "link": null, "locked": false, "versionNonce": 0
+    },
+
+    {
+      "type": "rectangle", "id": "tools-bg", "x": 50, "y": 4170, "width": 2450, "height": 140,
+      "fillStyle": "solid", "strokeWidth": 2, "strokeStyle": "solid", "roughness": 0, "opacity": 100,
+      "strokeColor": "#1e1e1e", "backgroundColor": "#1e1e1e", "roundness": { "type": 3 },
+      "isDeleted": false, "angle": 0, "seed": 320, "groupIds": [], "frameId": null,
+      "boundElements": null, "updated": 1, "link": null, "locked": false, "versionNonce": 0
+    },
+    {
+      "type": "text", "id": "tools-content", "x": 70, "y": 4185, "width": 2410, "height": 110,
+      "text": "TOOLS & PLATFORMS\n\nGHL: SMS + Email + Workflows + Calendar + CRM  |  Facebook Ads Manager: Paid Traffic  |  Zoom/StreamYard: Webinar Hosting\nSkool: Community  |  Whop/Stripe: Checkout  |  PostHog: Analytics  |  HealthProCEO Platform: Landing Pages + Quiz + Roadmap",
+      "fontSize": 18, "fontFamily": 1, "textAlign": "center", "verticalAlign": "top",
+      "containerId": null, "originalText": "TOOLS & PLATFORMS\n\nGHL: SMS + Email + Workflows + Calendar + CRM  |  Facebook Ads Manager: Paid Traffic  |  Zoom/StreamYard: Webinar Hosting\nSkool: Community  |  Whop/Stripe: Checkout  |  PostHog: Analytics  |  HealthProCEO Platform: Landing Pages + Quiz + Roadmap",
+      "autoResize": true, "lineHeight": 1.25,
+      "fillStyle": "solid", "strokeWidth": 2, "strokeStyle": "solid", "roughness": 0, "opacity": 100,
+      "strokeColor": "#ffffff", "backgroundColor": "transparent",
+      "isDeleted": false, "angle": 0, "seed": 321, "groupIds": [], "frameId": null,
+      "boundElements": null, "updated": 1, "link": null, "locked": false, "versionNonce": 0
+    },
+
+    {
+      "type": "text", "id": "purchased-label", "x": 280, "y": 3100, "width": 150, "height": 30,
+      "text": "YES $$$",
+      "fontSize": 24, "fontFamily": 1, "textAlign": "center", "verticalAlign": "top",
+      "containerId": null, "originalText": "YES $$$",
+      "autoResize": true, "lineHeight": 1.25,
+      "fillStyle": "solid", "strokeWidth": 2, "strokeStyle": "solid", "roughness": 0, "opacity": 100,
+      "strokeColor": "#22c55e", "backgroundColor": "transparent",
+      "isDeleted": false, "angle": 0, "seed": 400, "groupIds": [], "frameId": null,
+      "boundElements": null, "updated": 1, "link": null, "locked": false, "versionNonce": 0
+    },
+    {
+      "type": "text", "id": "notpurchased-label", "x": 1050, "y": 3100, "width": 150, "height": 30,
+      "text": "NO",
+      "fontSize": 24, "fontFamily": 1, "textAlign": "center", "verticalAlign": "top",
+      "containerId": null, "originalText": "NO",
+      "autoResize": true, "lineHeight": 1.25,
+      "fillStyle": "solid", "strokeWidth": 2, "strokeStyle": "solid", "roughness": 0, "opacity": 100,
+      "strokeColor": "#f59e0b", "backgroundColor": "transparent",
+      "isDeleted": false, "angle": 0, "seed": 401, "groupIds": [], "frameId": null,
+      "boundElements": null, "updated": 1, "link": null, "locked": false, "versionNonce": 0
+    }
+  ],
+  "appState": {
+    "gridSize": null,
+    "viewBackgroundColor": "#ffffff"
+  },
+  "files": {}
+}
